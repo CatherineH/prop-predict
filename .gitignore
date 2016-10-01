@@ -1,0 +1,7 @@
+# pycharm generated
+.idea
+
+# folder where the data is stored
+data
+
+__pycache__
